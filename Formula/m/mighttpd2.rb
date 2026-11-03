@@ -2,8 +2,8 @@ class Mighttpd2 < Formula
   desc "HTTP server"
   homepage "https://kazu-yamamoto.github.io/mighttpd2/"
   # TODO: Check if `cborg` allow-newer workarounds can be removed
-  url "https://hackage.haskell.org/package/mighttpd2-4.0.10/mighttpd2-4.0.10.tar.gz"
-  sha256 "7512f967748517537f526cb1ff6c6bd4e896d432691dd14c613530071e8357db"
+  url "https://hackage.haskell.org/package/mighttpd2-4.0.11/mighttpd2-4.0.11.tar.gz"
+  sha256 "bf8cceeb34339c9357d489b133653c77e8f12a89350bed9e0873f6c1978ef6fc"
   license "BSD-3-Clause"
 
   bottle do
